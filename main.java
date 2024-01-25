@@ -1,4 +1,7 @@
 
+import Model.HotelManager;
+
+
 
 public class main {
     
